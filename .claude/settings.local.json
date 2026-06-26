@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell *)",
+      "Bash(D:/mininatureconda/core_conda/python.exe *)"
+    ]
+  }
+}
